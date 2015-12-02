@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+@media(max-width:767px) {
+    body{
+        background-color:beige
+    }
+}
+
+div[class^="col"]{
+    background-color:aliceblue;
+}
