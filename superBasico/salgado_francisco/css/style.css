@@ -1,5 +1,5 @@
 body{
-  background: rgba(20, 140, 130, 1);
+  background: rgba(20, 100, 130, 1);
 {
     @media(max-width:767px) {
         body{
